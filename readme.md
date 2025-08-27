@@ -1,4 +1,4 @@
-# Pitch Perfect 2025 Startups Predictive Modeling
+# Pitch Perfect 2025 Startups Comprehensive Analysis and Predictive Modeling
 
 ## Description
 This Jupyter Notebook is designed to analyze the Data and do model Training, evaluation and predicting trends in startups for the year 2025. It provides insights into the dataset structure, performs data preprocessing, and applies predictive modeling techniques to forecast outcomes.
